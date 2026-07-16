@@ -19,38 +19,6 @@
 
 ### 💻 About Me
 
-```python
-class VishnuM:
-    def __init__(self):
-        self.name = "Vishnu M"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.degree = "B.E. Electronics & Communication Engineering"
-        self.college = "PSG Institute of Technology and Applied Research"
-        self.graduation_year = 2027
-        self.cgpa = 8.48
-
-        self.stack = [
-            "C", "C++", "Embedded C", "Verilog",
-            "Python (PyVISA, Automation)"
-        ]
-
-        self.currently_learning = [
-            "VLSI Design & Validation",
-            "RAG Architecture & LLMs",
-            "Advanced RF & PMIC Characterization"
-        ]
-
-        self.fun_fact = "Published an IEEE paper on AI-powered " \
-                         "animal intrusion detection while still " \
-                         "an undergrad ⚡"
-
-    def motto(self) -> str:
-        return "Validate hardware. Automate everything. Keep learning."
-
-
-me = VishnuM()
-print(me.motto())
-```
 
 <br clear="right"/>
 
