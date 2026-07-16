@@ -19,7 +19,7 @@
 
 ### 💻 About Me
 
-```python
+python
 class VishnuM:
     def __init__(self):
         self.name = "Vishnu M"
@@ -50,7 +50,7 @@ class VishnuM:
 
 me = VishnuM()
 print(me.motto())
-```
+
 
 <br clear="right"/>
 
