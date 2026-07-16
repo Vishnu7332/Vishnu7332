@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%26%20Post-Silicon%20Validation&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Embedded%20Systems%20and%20Post-Silicon%20Validation&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/Vishnu7332">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%2B+Post-Silicon+Validation;Building+with+YOLO%2C+ESP32+%26+PyVISA;IEEE+Published+Author+%7C+Ideathon+2026+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%3E%3E+Electronics+%26+Communication+Engineer;%3E%3E+Embedded+Systems+%2B+Post-Silicon+Validation;%3E%3E+Building+with+YOLO%2C+ESP32+%26+PyVISA;%3E%3E+Published+IEEE+Author+%7C+Ideathon+2026+Finalist" alt="Typing SVG" />
 </a>
 
 </div>
@@ -175,7 +175,7 @@ print(me.motto())
 
 <div align="center">
 
-📫 Reach me at **vishnu7332@gmail.com** &nbsp;|&nbsp; [LinkedIn](YOUR_LINKEDIN_URL) &nbsp;|&nbsp; [GitHub](https://github.com/Vishnu7332)
+📫 Reach me at **vishnu7332@gmail.com** &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/vishnu-m-936583359/) &nbsp;|&nbsp; [GitHub](https://github.com/Vishnu7332)
 
 <img src="https://komarev.com/ghpvc/?username=Vishnu7332&style=flat-square&color=70a5fd" alt="Profile views"/>
 
